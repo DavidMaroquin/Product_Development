@@ -1,0 +1,733 @@
+2023-12-13 23:04:58,612:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+
+2023-12-13 23:04:58,632:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_config.py:321: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2023-12-13 23:05:00,400:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:05:00,400:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:05:00,400:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:05:00,400:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:05:00,801:INFO:Initializing load_model()
+2023-12-13 23:05:00,801:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-13 23:05:00,901:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pycaret\internal\pipeline.py:145: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.2.0', 'IPython': '8.14.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.25.2', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.6.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.5', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.3', 'setuptools': '68.0.0', 'pycaret': '3.1.0', 'IPython': '8.17.2', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.1', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.18', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-12-13 23:11:00,412:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+
+2023-12-13 23:11:00,437:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_config.py:321: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2023-12-13 23:11:01,373:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:01,373:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:01,373:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:01,373:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:01,653:INFO:Initializing load_model()
+2023-12-13 23:11:01,653:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-13 23:11:01,698:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pycaret\internal\pipeline.py:145: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.2.0', 'IPython': '8.14.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.25.2', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.6.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.5', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.3', 'setuptools': '68.0.0', 'pycaret': '3.1.0', 'IPython': '8.17.2', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.1', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.18', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-12-13 23:11:39,508:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+
+2023-12-13 23:11:39,523:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_config.py:321: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2023-12-13 23:11:40,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:40,993:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:40,993:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:40,993:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:11:41,431:INFO:Initializing load_model()
+2023-12-13 23:11:41,431:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-13 23:11:41,486:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pycaret\internal\pipeline.py:145: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.2.0', 'IPython': '8.14.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.25.2', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.6.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.5', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.3', 'setuptools': '68.0.0', 'pycaret': '3.1.0', 'IPython': '8.17.2', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.1', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.18', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-12-13 23:11:57,607:INFO:Initializing predict_model()
+2023-12-13 23:11:57,608:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D2147E70D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D2148BD620>)
+2023-12-13 23:11:57,608:INFO:Checking exceptions
+2023-12-13 23:11:57,608:INFO:Preloading libraries
+2023-12-13 23:11:57,608:INFO:Set up data.
+2023-12-13 23:11:57,623:INFO:Set up index.
+2023-12-13 23:12:49,025:INFO:Initializing predict_model()
+2023-12-13 23:12:49,025:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001D214BE2210>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001D214905760>)
+2023-12-13 23:12:49,025:INFO:Checking exceptions
+2023-12-13 23:12:49,025:INFO:Preloading libraries
+2023-12-13 23:12:49,025:INFO:Set up data.
+2023-12-13 23:12:49,032:INFO:Set up index.
+2023-12-13 23:15:36,377:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+
+2023-12-13 23:15:36,412:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_config.py:321: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2023-12-13 23:15:38,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:15:38,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:15:38,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:15:38,654:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:15:39,039:INFO:Initializing load_model()
+2023-12-13 23:15:39,039:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-13 23:15:39,109:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pycaret\internal\pipeline.py:145: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.2.0', 'IPython': '8.14.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.25.2', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.6.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.5', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.3', 'setuptools': '68.0.0', 'pycaret': '3.1.0', 'IPython': '8.17.2', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.1', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.18', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-12-13 23:15:45,056:INFO:Initializing predict_model()
+2023-12-13 23:15:45,056:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000018BD354AB10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000018BD355D620>)
+2023-12-13 23:15:45,056:INFO:Checking exceptions
+2023-12-13 23:15:45,056:INFO:Preloading libraries
+2023-12-13 23:15:45,059:INFO:Set up data.
+2023-12-13 23:15:45,065:INFO:Set up index.
+2023-12-13 23:16:07,130:INFO:Initializing predict_model()
+2023-12-13 23:16:07,130:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000018BD3895C10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000018BD35A5760>)
+2023-12-13 23:16:07,131:INFO:Checking exceptions
+2023-12-13 23:16:07,131:INFO:Preloading libraries
+2023-12-13 23:16:07,131:INFO:Set up data.
+2023-12-13 23:16:07,143:INFO:Set up index.
+2023-12-13 23:20:09,786:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+
+2023-12-13 23:20:09,806:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_config.py:321: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2023-12-13 23:20:10,645:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:20:10,645:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:20:10,645:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:20:10,645:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:20:10,887:INFO:Initializing load_model()
+2023-12-13 23:20:10,887:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-13 23:20:10,931:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pycaret\internal\pipeline.py:145: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.2.0', 'IPython': '8.14.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.25.2', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.6.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.5', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.3', 'setuptools': '68.0.0', 'pycaret': '3.1.0', 'IPython': '8.17.2', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.1', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.18', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-12-13 23:20:19,235:INFO:Initializing predict_model()
+2023-12-13 23:20:19,235:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000020E2E62ED10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000020E2E7FD580>)
+2023-12-13 23:20:19,236:INFO:Checking exceptions
+2023-12-13 23:20:19,236:INFO:Preloading libraries
+2023-12-13 23:20:19,236:INFO:Set up data.
+2023-12-13 23:20:19,243:INFO:Set up index.
+2023-12-13 23:20:24,612:INFO:Initializing predict_model()
+2023-12-13 23:20:24,612:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000020E2EA85D50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000020E2E8456C0>)
+2023-12-13 23:20:24,613:INFO:Checking exceptions
+2023-12-13 23:20:24,613:INFO:Preloading libraries
+2023-12-13 23:20:24,613:INFO:Set up data.
+2023-12-13 23:20:24,617:INFO:Set up index.
+2023-12-13 23:21:20,988:INFO:Initializing predict_model()
+2023-12-13 23:21:20,988:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000020E2EA86350>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000020E2E845800>)
+2023-12-13 23:21:20,988:INFO:Checking exceptions
+2023-12-13 23:21:20,989:INFO:Preloading libraries
+2023-12-13 23:21:20,989:INFO:Set up data.
+2023-12-13 23:21:20,992:INFO:Set up index.
+2023-12-13 23:41:10,407:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_fields.py:149: UserWarning: Field "model_server_url" has conflict with protected namespace "model_".
+
+You may be able to resolve this warning by setting `model_config['protected_namespaces'] = ()`.
+  warnings.warn(
+
+2023-12-13 23:41:10,437:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pydantic\_internal\_config.py:321: UserWarning: Valid config keys have changed in V2:
+* 'schema_extra' has been renamed to 'json_schema_extra'
+  warnings.warn(message, UserWarning)
+
+2023-12-13 23:41:11,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:41:11,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:41:11,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:41:11,372:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-13 23:41:11,615:INFO:Initializing load_model()
+2023-12-13 23:41:11,615:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-13 23:41:11,660:WARNING:C:\Users\David\anaconda3\envs\prodev\Lib\site-packages\pycaret\internal\pipeline.py:145: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '23.2.1', 'setuptools': '68.0.0', 'pycaret': '3.2.0', 'IPython': '8.14.0', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.25.2', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.2', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.6.0', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '2.1.3', 'pickle5': 'Not installed', 'cloudpickle': '2.2.1', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.5', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '23.3', 'setuptools': '68.0.0', 'pycaret': '3.1.0', 'IPython': '8.17.2', 'ipywidgets': '8.1.1', 'tqdm': '4.66.1', 'numpy': '1.23.5', 'pandas': '1.5.3', 'jinja2': '3.1.2', 'scipy': '1.10.1', 'joblib': '1.3.2', 'sklearn': '1.2.2', 'pyod': '1.1.1', 'imblearn': '0.11.0', 'category_encoders': '2.6.3', 'lightgbm': '4.1.0', 'numba': '0.58.1', 'requests': '2.31.0', 'matplotlib': '3.7.3', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.18.0', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.0', 'sktime': '0.21.1', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.6', 'markupsafe': '2.1.1', 'pickle5': 'Not installed', 'cloudpickle': '3.0.0', 'deprecation': '2.1.0', 'xxhash': '3.4.1', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.18', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2023-12-13 23:41:21,116:INFO:Initializing predict_model()
+2023-12-13 23:41:21,116:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024AF8D3B5D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Rank', 'TeamId',
+                                             'SubmissionCount'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['TeamName', 'LastSubmissionDate',
+                                             'TeamMemberUserNames'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('rest_encoding',
+                 TransformerWra...
+                                             'TeamMemberUserNames'],
+                                    transformer=TargetEncoder(cols=['TeamName',
+                                                                    'LastSubmissionDate',
+                                                                    'TeamMemberUserNames'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000024AF8D4D580>)
+2023-12-13 23:41:21,116:INFO:Checking exceptions
+2023-12-13 23:41:21,116:INFO:Preloading libraries
+2023-12-13 23:41:21,117:INFO:Set up data.
+2023-12-13 23:41:21,120:INFO:Set up index.
+2023-12-17 20:19:54,481:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:19:54,483:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:19:54,483:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:19:54,483:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:19:54,643:INFO:Initializing load_model()
+2023-12-17 20:19:54,643:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-17 20:27:50,233:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:27:50,233:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:27:50,233:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:27:50,233:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:27:50,421:INFO:Initializing load_model()
+2023-12-17 20:27:50,421:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-17 20:27:50,422:INFO:Initializing load_model()
+2023-12-17 20:27:50,422:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-17 20:27:50,621:INFO:Transformation Pipeline and Model Successfully Loaded
+2023-12-17 20:45:47,036:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:45:47,036:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:45:47,036:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:45:47,036:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-17 20:45:47,232:INFO:Initializing load_model()
+2023-12-17 20:45:47,232:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-17 20:45:47,234:INFO:Initializing load_model()
+2023-12-17 20:45:47,234:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-17 20:45:47,305:INFO:Transformation Pipeline and Model Successfully Loaded
+2023-12-17 20:45:47,305:INFO:Transformation Pipeline and Model Successfully Loaded
+2023-12-17 20:45:47,311:INFO:
+2023-12-17 20:46:27,071:INFO:Initializing load_model()
+2023-12-17 20:46:27,072:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-17 20:46:27,131:INFO:Transformation Pipeline and Model Successfully Loaded
+2023-12-18 19:07:22,777:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 19:07:22,778:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 19:07:22,778:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 19:07:22,778:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 19:07:23,014:INFO:Initializing load_model()
+2023-12-18 19:07:23,014:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-18 19:09:33,549:INFO:Initializing predict_model()
+2023-12-18 19:09:33,550:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001FE49C64350>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001FE49AECEA0>)
+2023-12-18 19:09:33,550:INFO:Checking exceptions
+2023-12-18 19:09:33,550:INFO:Preloading libraries
+2023-12-18 19:09:33,550:INFO:Set up data.
+2023-12-18 19:09:33,560:INFO:Set up index.
+2023-12-18 19:12:17,834:INFO:Initializing predict_model()
+2023-12-18 19:12:17,834:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001FE49ADD150>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001FE49AEE2A0>)
+2023-12-18 19:12:17,834:INFO:Checking exceptions
+2023-12-18 19:12:17,834:INFO:Preloading libraries
+2023-12-18 19:12:17,834:INFO:Set up data.
+2023-12-18 19:12:17,840:INFO:Set up index.
+2023-12-18 19:21:03,471:INFO:Initializing predict_model()
+2023-12-18 19:21:03,473:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000001FE49C64250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('actual_estimator',
+                 LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000001FE49AEE2A0>)
+2023-12-18 19:21:03,476:INFO:Checking exceptions
+2023-12-18 19:21:03,476:INFO:Preloading libraries
+2023-12-18 19:21:03,481:INFO:Set up data.
+2023-12-18 19:21:03,486:INFO:Set up index.
+2023-12-18 22:04:43,443:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:04:43,443:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:04:43,443:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:04:43,443:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:04:43,644:INFO:Initializing load_model()
+2023-12-18 22:04:43,644:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-18 22:23:30,553:INFO:Initializing predict_model()
+2023-12-18 22:23:30,554:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000019E1C821450>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 <function finalize_model at 0x0000019E1C76EB60>)]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019E1C824C20>)
+2023-12-18 22:23:30,554:INFO:Checking exceptions
+2023-12-18 22:23:30,554:INFO:Preloading libraries
+2023-12-18 22:23:30,554:INFO:Set up data.
+2023-12-18 22:23:30,566:INFO:Set up index.
+2023-12-18 22:23:58,618:INFO:Initializing predict_model()
+2023-12-18 22:23:58,618:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000019E1C823B90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 <function finalize_model at 0x0000019E1C76EB60>)]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000019E1C824C20>)
+2023-12-18 22:23:58,619:INFO:Checking exceptions
+2023-12-18 22:23:58,619:INFO:Preloading libraries
+2023-12-18 22:23:58,621:INFO:Set up data.
+2023-12-18 22:23:58,626:INFO:Set up index.
+2023-12-18 22:24:37,303:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:24:37,303:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:24:37,303:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:24:37,303:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:24:37,502:INFO:Initializing load_model()
+2023-12-18 22:24:37,502:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-18 22:24:51,111:INFO:Initializing predict_model()
+2023-12-18 22:24:51,111:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000224C1BAD450>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 <function finalize_model at 0x00000224C1AFEB60>)]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000224C1BB8C20>)
+2023-12-18 22:24:51,113:INFO:Checking exceptions
+2023-12-18 22:24:51,113:INFO:Preloading libraries
+2023-12-18 22:24:51,113:INFO:Set up data.
+2023-12-18 22:24:51,121:INFO:Set up index.
+2023-12-18 22:34:09,863:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:34:09,863:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:34:09,863:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:34:09,863:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-12-18 22:34:10,098:INFO:Initializing load_model()
+2023-12-18 22:34:10,098:INFO:load_model(model_name=../../models/model_v1, platform=None, authentication=None, verbose=True)
+2023-12-18 22:34:10,145:INFO:Initializing load_model()
+2023-12-18 22:34:10,145:INFO:load_model(model_name=../../models/model_v2, platform=None, authentication=None, verbose=True)
+2023-12-18 22:34:10,178:INFO:Initializing load_model()
+2023-12-18 22:34:10,178:INFO:load_model(model_name=../../models/model_v3, platform=None, authentication=None, verbose=True)
+2023-12-18 22:34:20,113:INFO:Initializing predict_model()
+2023-12-18 22:34:20,113:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000176D5A89B50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000176D5A1C360>)
+2023-12-18 22:34:20,113:INFO:Checking exceptions
+2023-12-18 22:34:20,113:INFO:Preloading libraries
+2023-12-18 22:34:20,113:INFO:Set up data.
+2023-12-18 22:34:20,117:INFO:Set up index.
+2023-12-18 22:35:03,110:INFO:Initializing predict_model()
+2023-12-18 22:35:03,110:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000176D5A28690>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model', LGBMRegressor(n_jobs=-1, random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000176D59FBD80>)
+2023-12-18 22:35:03,111:INFO:Checking exceptions
+2023-12-18 22:35:03,111:INFO:Preloading libraries
+2023-12-18 22:35:03,111:INFO:Set up data.
+2023-12-18 22:35:03,114:INFO:Set up index.
+2023-12-18 22:35:25,619:INFO:Initializing predict_model()
+2023-12-18 22:35:25,619:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000176D5A11A50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 <function finalize_model at 0x00000176D5742B60>)]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000176CA519080>)
+2023-12-18 22:35:25,619:INFO:Checking exceptions
+2023-12-18 22:35:25,619:INFO:Preloading libraries
+2023-12-18 22:35:25,620:INFO:Set up data.
+2023-12-18 22:35:25,623:INFO:Set up index.
+2023-12-18 22:35:41,102:INFO:Initializing predict_model()
+2023-12-18 22:35:41,102:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000176D5A11D10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 GradientBoostingRegressor(random_state=2023))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000176CA518FE0>)
+2023-12-18 22:35:41,103:INFO:Checking exceptions
+2023-12-18 22:35:41,103:INFO:Preloading libraries
+2023-12-18 22:35:41,103:INFO:Set up data.
+2023-12-18 22:35:41,106:INFO:Set up index.
+2023-12-18 22:36:46,258:INFO:Initializing predict_model()
+2023-12-18 22:36:46,259:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000176D5A21BD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['anio', 'ventasNA', 'ventasEU',
+                                             'ventasJP', 'ventasOtros'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['nombre', 'plataforma', 'genero',
+                                             'editorial'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('onehot_encoding',
+                 Tra...
+                 TransformerWrapper(include=['nombre', 'plataforma',
+                                             'editorial'],
+                                    transformer=TargetEncoder(cols=['nombre',
+                                                                    'plataforma',
+                                                                    'editorial'],
+                                                              handle_missing='return_nan'))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=MinMaxScaler())),
+                ('trained_model',
+                 <function finalize_model at 0x00000176D5742B60>)]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000176CA518FE0>)
+2023-12-18 22:36:46,259:INFO:Checking exceptions
+2023-12-18 22:36:46,259:INFO:Preloading libraries
+2023-12-18 22:36:46,259:INFO:Set up data.
+2023-12-18 22:36:46,263:INFO:Set up index.
